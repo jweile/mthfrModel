@@ -1,0 +1,207 @@
+Cell Line,Age at onset (in months),Age at onset,Enzyme Activity,Control Activity,% of Control,Mutation 1,Mutation 1 protein,Mutation 1 type,Mutation 2,Mutation 2 protein,Mutation 2 type,homozygous/heterozygous,Comments,677C>T / A222V,1298A>C / E429A,Thermolabile,Source1,Source2,Source3
+WG0354,156,late,,,19,c.780+1G>A,splice site,splice,,,,,sib of WG0355,AA,EE,FALSE,Watkins/Rozen,,
+WG0355,132,late,,,14,c.780+1G>A,splice site,splice,,,,,sib of WG0354,AA,EE,FALSE,Watkins/Rozen,,
+WG0356,192,late,,,20,c.973C>T,p.Arg325Cys,missense,c.973C>T,p.Arg325Cys,missense,hom,,VV,EE,TRUE,Watkins/Rozen,,
+WG0458,132,late,,,10,c.1003C>T,p.Arg335Cys,missense,c.155G>A,p.Arg52Gln,missense,comp,,VV,EE,TRUE,Watkins/Rozen,,
+WG0670,6,early,,,4,c.446G>T,p.Gly149Val,missense,c.446G>T,p.Gly149Val,missense,hom,,AA,EE,TRUE,Watkins/Rozen,,
+WG0735,7,early,,,2,c.680C>T,p.Thr227Met,missense,c.680C>T,p.Thr227Met,missense,hom,,AA,EE,,Watkins/Rozen,,
+WG1084,3,early,0.03,11.52,0,c.1743G>A,p.Met581Ile,missense,,,,,probably A222V+E429A in allele 2,AV,AE,,Watkins/Rozen,,
+WG1396,168,late,,,14,c.1069C>T,p.Arg357Cys,missense,c.155G>A,p.Arg52Gln,missense,comp,,AV,AE,TRUE,Watkins/Rozen,,
+WG1554,1,early,0,3.1,0,c.547C>T,p.Arg183Ter,missense,c.547C>T,p.Arg183Ter,stop,hom,,VV,EE,,Watkins/Rozen,,
+WG1569,0.5,early,0,14,0,c.1408G>T,p.Glu470Ter,missense,c.1541_1542del,p.Glu514Alafs,frameshift,comp,,AA,AE,,Watkins/Rozen,,
+WG1627,1.5,early,0.04,11.9,"0,1",c.547C>T,p.Arg183Ter,missense,c.547C>T,p.Arg183Ter,stop,hom,,AA,EE,,Watkins/Rozen,,
+WG1767,1,early,0.49,11.45,"4,2",c.968T>C,p.Leu323Pro,missense,c.1129C>T,p.Arg377Cys,missense,comp,,AV,EE,FALSE,Watkins/Rozen,,
+WG1772,0.5,early,0.1,8.1,"1,1.6",c.152G>T,p.Arg51Leu,missense,c.237-1G>T,splice site,splice,comp,,AA,AA,FALSE,Watkins/Rozen,,
+WG1779,180,late,0.4,8.1,"5,6",c.470G>A,p.Arg157Gln,missense,c.1699C>T,p.Arg567Ter,stop,comp,Sib of WG1834,AA,AA,TRUE,Watkins/Rozen,,
+WG1793,Inf,asymp,,,,c.607G>A,p.Glu203Lys,missense,c.1408G>T,p.Glu470Ter,stop,comp,,,,,Watkins/Rozen,,
+WG1794,1,early,0,7.8,0,c.1750A>T,p.Lys584Ter,missense,c.1750A>T,p.Lys584Ter,stop,hom,,AA,EE,,Watkins/Rozen,,
+WG1807,12,early,0.26,6.01,"4,3",c.752C>T,p.Pro251Leu,missense,c.752C>T,p.Pro251Leu,missense,hom,,VV,EE,TRUE,Watkins/Rozen,,
+WG1834,Inf,asymp,0.53,10.2,"5,7",c.470G>A,p.Arg157Gln,missense,c.1699C>T,p.Arg567Ter,stop,comp,Sib of WG1779,AA,AA,TRUE,Watkins/Rozen,,
+WG1863,252,late,1.07,10.2,"10,14",c.470G>A,p.Arg157Gln,missense,c.1715C>T,p.Pro572Leu,missense,comp,,AV,AE,TRUE,Watkins/Rozen,,
+WG1951,6,early,0.78,14,"6,5.3",c.1013T>C,p.Met338Thr,missense,c.1715C>T,p.Pro572Leu,missense,comp,,VV,EE,TRUE,Watkins/Rozen,,
+WG2006,180,late,0.638,10.2,"6,7",c.1160G>A,p.Gly387Asp,missense,c.1756G>T,p.Glu586Ter,stop,comp,,AV,EE,TRUE,Watkins/Rozen,,
+WG2184,192,late,2.37,10.2,"23,29",c.346G>A,p.Ala116Thr,missense,c.1122C>G,p.Tyr374Ter,stop,comp,,AV,EE,TRUE,Watkins/Rozen,,
+WG2213,444,late,3.3,9.4,35,c.1129C>T,p.Arg377Cys,missense,c.1535A>G,p.Tyr512Cys,missense,hom,Sib of WG2313,,,,Watkins/Rozen,,
+WG2231,1.5,early,0.05,7.5,"1,0.2",c.1015T>G,p.Trp339Gly,missense,c.1015T>G,p.Trp339Gly,missense,hom,,VV,EE,,Watkins/Rozen,,
+WG2255,144,late,2.9,7.1,"41,13",c.459C>G,p.Ile153Met,missense,c.1262G>A,p.Trp421Ter,stop,comp,,AA,EE,TRUE,Watkins/Rozen,,
+WG2313,600,late,2.85,15.9,18,c.1129C>T,p.Arg377Cys,missense,c.1535A>G,p.Tyr512Cys,missense,comp,Sib of WG2213,,,,Watkins/Rozen,,
+WG2351,12,early,0.62,7.5,"8,5.5",c.1013T>C,p.Met338Thr,missense,c.1129C>T,p.Arg377Cys,missense,comp,,AV,EE,FALSE,Watkins/Rozen,,
+WG2413,360,late,5,12.2,41,c.1118G>A,p.Ser373Asn,missense,c.1118G>A,p.Ser373Asn,missense,hom,Sib of WG3644,,,,Watkins/Rozen,,
+WG2576,6,early,0,9.3,0,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,Watkins/Rozen,,
+WG3644,564,late,4.3,11.5,37,c.1118G>A,p.Ser373Asn,missense,c.1118G>A,p.Ser373Asn,missense,hom,Sib of WG2413,,,,Watkins/Rozen,,
+WG3934,312,late,1.7,16.2,10,c.446_447delinsTT,p.Gly149Val,missense,,,,,,AV,,,Watkins/Rozen,,
+WG4133,168,late,0.3,7.4,4,c.155G>A,p.Arg52Gln,missense,c.1032-1G>A,splice site,splice,comp,,AV,,,Watkins/Rozen,,
+WG4540,288,late,1.1,22.7,5,c.1155-2del,splice site deletion,splice,,,,,No records before 24y,AV,,,Watkins/Rozen,,
+CM,24,late, , ,0,c.971A>G,p.Asn324Ser,missense,c.971A>G,p.Asn324Ser,missense,hom,,VV,EE,,Watkins/Rozen,,
+UB,0,early,,,,c.1015T>G,p.Trp339Gly,missense,c.1015T>G,p.Trp339Gly,missense,hom,,VV,,,Watkins/Rozen,,
+K,1,early,,,0,c.1072C>T,p.Arg358Ter,stop,c.1072C>T,p.Arg358Ter,stop,hom,,VV,,,Watkins/Rozen,,
+U,10,early,,,,c.1699C>T,p.Arg567Ter,stop,c.1699C>T,p.Arg567Ter,stop,hom,,AA,,,Watkins/Rozen,,
+1,60,late,,,,c.1408G>T,p.Glu470Ter,stop,c.1262G>C,p.Trp421Ser,missense,comp,,,,,Watkins/Rozen,,
+2,1,early,,,,c.998T>C,p.Leu333Pro,missense,c.998T>C,p.Leu333Pro,missense,hom,,,,,Watkins/Rozen,,
+II1,138,late,,,7.8,c.16A>T,p.Arg6Ter,stop,c.1603C>T,p.Arg535Trp,missense,comp,likely sib of II2,VV,AE,,Watkins/Rozen,,
+II2,36,late,,,8,c.16A>T,p.Arg6Ter,stop,c.1603C>T,p.Arg535Trp,missense,comp,likely sib of II1,VV,AE,,Watkins/Rozen,,
+FR.1,132,late,,,9.9,c.-13-28_-13-27del,UTR,UTR,c.1715C>T,p.Pro572Leu,missense,het/comp,,AV,,,"Burda et al., 2015b (Patient 30)","Huemer et al., 2015b (Patient 30)","Burda et al., 2015b (Patient 30)"
+FR.2.1,24,late,,,6.6,c.16A>T,p.Arg6Ter,stop,c.1603C>T,p.Arg535Trp,missense,comp,,,,,"Tonetti et al., 2001 (Case 1)","Tonetti et al., 2001 (Case 1)","Tonetti et al., 2003 (Family 5, 1986)"
+FR.2.2,36,late,,,7.3,c.16A>T,p.Arg6Ter,stop,c.1603C>T,p.Arg535Trp,missense,comp,,,,,"Tonetti et al., 2001 (Case 2)","Tonetti et al., 2001 (Case 2)","Tonetti et al., 2003 (Family 5, 1994)"
+FR.3.1,156,late,,,9.7,c.136C>T,p.Arg46Trp,missense,c.155G>A,p.Arg52Gln,missense,comp,,VV,,,"Burda et al., 2015b (Patient 04)","Tallur et al., 2005 (Case 2); Huemer et al., 2015b (Patient 04)","Burda et al., 2015b (Patient 04)"
+FR.3.2,162,late,,,7.2,c.136C>T,p.Arg46Trp,missense,c.155G>A,p.Arg52Gln,missense,comp,,,,,Froese et al 2016,"Tallur et al., 2005 (Case 1)",Froese et al 2016
+FR.4,6,early,,,2.3,c.136C>T,p.Arg46Trp,missense,c.1970G>C,p.Ter657Ser,stoploss,comp,,,,,"Burda et al., 2015b (Patient 35)","Huemer et al., 2015b (Patient 35)","Burda et al., 2015b (Patient 35)"
+FR.5,,late,,,7.3,c.137G>A,p.Arg46Gln,missense,c.547C>T,p.Arg183Ter,stop,comp,,AV,,,"Burda et al., 2015b (Patient 06)","Suormala et al., 2002 (Patient 06)","Burda et al., 2015b (Patient 06)"
+FR.6,,early,,,1.6,c.152G>C,p.Arg51Pro,missense,c.237-1G>T,splice site,splice,comp,,,,,"Goyette et al., 1996 (1772)","Goyette et al., 1996 (1772)","Rosenblatt et al., 1992 (1772)"
+FR.7,,early,,, ,c.152G>C,p.Arg51Pro,missense,c.1541_1542del,p.Glu514Valfs,frameshift,comp,,,,,"Wong et al., 2015 (Case 5)","Wong et al., 2015 (Case 5)", 
+FR.8,,late,,,4.1,c.155G>A,p.Arg52Gln,missense,c.781-1G>A,splice site,splice,comp,,,,,"D'Aco et al.,  2014","D'Aco et al., 2014","D'Aco et al.,  2014"
+FR.9,144,late,,,"6.9,12.8",c.155G>A,p.Arg52Gln,missense,c.1003C>T  ,p.Arg335Cys,missense,comp,,,,,"Goyette et al., 1995 (458)","Boss and Erbe, 1981 (WM); Erbe, 1986 (WMa)","Rosenblatt et al., 1979 (WM)/  Rosenblatt et al., 1992 (458)"
+FR.10,168,late,,,13.6,c.155G>A,p.Arg52Gln,missense,c.1069C>T,p.Arg357Cys,missense,comp,,,,,"Goyette et al., 1995 (1396)","Goyette et al., 1995 (1396)","Rosenblatt et al., 1992 (1396)"
+FR.11.1,,late,,,,c.[155G>A;1166+1G>A],p.[Arg52Gln;splice],splice,c.1319C>T,p.Ser440Leu,missense,comp,,,,,"Tonetti et al., 2002 (Patient)","Tonetti et al., 2002 (Patient)","Tonetti et al., 2003 (Family 6, 1974)"
+FR.11.2,,late,,,26.5,c.[155G>A;1166+1G>A],p.[Arg52Gln;splice],splice,c.1319C>T,p.Ser440Leu,missense,comp,,,,,"Tonetti et al., 2002 (Sister)","Tonetti et al., 2002 (Sister)","Tonetti et al., 2003 (Family 6,1976)"
+FR.12,,late,,,25.5,c.155G>A,p.Arg52Gln,missense,c.1262G>C,p.Trp421Ser,missense,comp,,AV,,,"Burda et al., 2015b (Patient 01)","Suormala et al., 2002 (Patient 01)","Burda et al., 2015b (Patient 01)"
+FR.13,,late,,,6.9,c.155G>A,p.Arg52Gln,missense,c.1347+1G>A,splice site,splice,comp,,,,,"Prasad et al., 2011","Prasad et al., 2011","Prasad et al., 2011"
+FR.14,60,late,,,7.7,c.155G>A,p.Arg52Gln,missense,c.1699C>T,p.Arg567Ter,stop,comp,,,,,"Tonetti et al., 2003 (Family 7, 1981)","Tonetti et al., 2003 (Family 7, 1981)","Tonetti et al., 2003 (Family 7, 1981)"
+FR.15,0.25,early,,,0.6,c.176G>C,p.Trp59Ser,missense,c.176G>C,p.Trp59Ser,missense,hom,,AA,,,"Burda et al., 2015b (Patient 20)","Steinmann et al.,1984 (Case); Huemer et al., 2015b (Patient 20)","Burda et al., 2015b (Patient 20)"
+FR.16.1,,early,,,0.4,c.177G>T,p.Trp59Cys,missense,c.177G>T,p.Trp59Cys,missense,hom,,,,,Froese et al 2016,Froese et al 2016,Froese et al 2016
+FR.16.2,,asymp,,, ,c.177G>T,p.Trp59Cys,missense,c.177G>T,p.Trp59Cys,missense,hom,,,,,Froese et al 2016,Froese et al 2016, 
+FR.17.1,,late,,,5.3,c.197C>T,p.Pro66Leu,missense,c.470G>A,p.Arg157Gln,missense,comp,,,,,Froese et al 2016,Froese et al 2016,Froese et al 2016
+FR.17.2,,late,,, ,c.197C>T,p.Pro66Leu,missense,c.470G>A,p.Arg157Gln,missense,comp,,,,,Froese et al 2016,Froese et al 2016, 
+FR.18,,late,,,5.1,c.202C>G,p.Arg68Gly,missense,c.1632+2T>G,splice site,splice,comp,,,,,"Burda et al., 2015b (Patient 61)",Froese et al 2016,"Burda et al., 2015b (Patient 61)"
+FR.19,1,early,,,,c.233C>G,p.Ser78Ter,stop,c.233C>G,p.Ser78Ter,stop,hom,,,,,"Tonetti et al., 2003  (Family 1, 1988)","Chaabene-Masmoudi et al., 2009","Tonetti et al., 2003 (Family 1, 1988)"
+FR.20,,early,,, ,c.236+1G>A,splice site,splice,c.236+1G>A,splice site,splice,hom,,,,,"Wong et al., 2015 (Patient 4)","Wong et al., 2015 (Patient 4)", 
+FR.21,,late,,,9.3,c.237-1G>T,splice site,splice,c.470G>A,p.Arg157Gln,missense,comp,,,,,"Burda et al., 2015b (Patient 09)",Froese et al 2016,"Burda et al., 2015b (Patient 09)"
+FR.22,,early,,,0.7,c.237-1G>T,splice site,splice,c.769T>G,p.Phe257Val,missense,comp,,,,,"Burda et al., 2015b (Patient 66)",Froese et al 2016,"Burda et al., 2015b (Patient 66)"
+FR.23,23,late,,,3.4,c.244C>T,p.Arg82Trp,missense,c.388T>C,p.Cys130Arg,missense,comp,,VV,,,"Burda et al., 2015b (Patient 11)","Suormala et al., 2002 (Patient 11)","Burda et al., 2015b (Patient 11)"
+FR.24,2,early,,,8.1,c.264_302dup,p.Pro101delins(13),long insertion,c.1516T>G,p.Tyr506Asp,missense,comp,,,,,"Burda et al., 2015b (Patient 29)","Huemer et al., 2015b (Patient 29)","Burda et al., 2015b (Patient 29)"
+FR.25,0.2,early,,,0.3,c.337G>A,p.Ala113Thr,missense,c.780+1G>T,splice site,splice,comp,,,,,"Burda et al., 2015b (Patient 82)","Huemer et al., 2015b (Patient 82)","Burda et al., 2015b (Patient 82)"
+FR.26,,early,,,3.6,c.337G>A,p.Ala113Thr,missense,c.337G>A,p.Ala113Thr,missense,hom,,AA,,,"Burda et al., 2015b (Patient 78)",Froese et al 2016,"Burda et al., 2015b (Patient 78)"
+FR.27,,early,,,0.5,c.337G>A,p.Ala113Thr,missense,c.1013T>C,p.Met338Thr,missense,comp,,VV,,,"Burda et al., 2015b (Patient 59)",Froese et al 2016,"Burda et al., 2015b (Patient 59)"
+FR.28,230,late,,, ,c.346G>A,p.Ala116Thr,missense,c.446_447delinsTT ,p.Gly149Val,missense,comp,,,,,"Arai and Osaka, 2011","Arai and Osaka, 2011", 
+FR.29,192,late,,,29.1,c.346G>A,p.Ala116Thr,missense,c.1122C>G,p.Tyr374Ter,stop,comp,,,,,"Sibani et al., 2000 (2184)","Sibani et al., 2000 (2184)","Sibani et al., 2000 (2184)"
+FR.30,0.75,early,,,0.1,c.379C>T,p.His127Tyr,missense,c.643_645del,p.Lys215del,deletion,comp,,,,,"Burda et al., 2015b (Patient 39)","Huemer et al., 2015b (Patient 39)","Burda et al., 2015b (Patient 39)"
+FR.31,2,early,,,"1,1.7",c.386C>A,p.Thr129Asn,missense,c.757G>T ,p.Val253Phe,missense,comp,,AV,,,"Crushel et al., 2012 ","Crushel et al., 2012 ","Crushel et al., 2012  / Burda et al., 2015b (Patient 71)"
+FR.32,36,late,,, ,c.416C>T,p.Thr139Met,missense,c.446_ 447delinsTT,p.Gly149Val,missense,comp,,,,,"Yano et al., 2004","Yano et al., 2004", 
+FR.33,4,early,,,0.5,c.440A>C,p.Gln147Pro,missense,c.440A>C,p.Gln147Pro,missense,hom,,AA,,,"Burda et al., 2015b (Patient 41)","Huemer et al., 2015b (Patient 41)","Burda et al., 2015b (Patient 41)"
+FR.34,,early,,,0.5,c.440A>C,p.Gln147Pro,missense,c.440A>C,p.Gln147Pro,missense,hom,,AA,,,"Burda et al., 2015b (Patient 43)",Froese et al 2016,"Burda et al., 2015b (Patient 43)"
+FR.35,2,early,,,1.2,c.440A>C,p.Gln147Pro,missense,c.440A>C,p.Gln147Pro,missense,hom,,AA,,,"Burda et al., 2015b (Patient 36)","Huemer et al., 2015b (Patient 36)","Burda et al., 2015b (Patient 36)"
+FR.36,4,early,,,"2.2,3.8",c.446_447delinsTT,p.Gly149Val,missense,c.446_447delinsTT ,p.Gly149Val,missense,hom,,,,,"Goyette et al., 1996 (670)","Narisawa et al., 1977, 1979 (SS); Wada et al., 1978 (SS)","Boss and Erbe, 1981 (SS) / Rosenblatt et al., 1992 (670)"
+FR.37,2,early,,,"0.75,0.8",c.446_447delinsTT,p.Gly149Val,missense,c.446_447delinsTT ,p.Gly149Val,missense,hom,,AA,,,"Tsuji et al., 2011","Tsuji et al., 2011","Tsuji et al., 2011 / Burda et al., 2015b (Patient 60)"
+FR.38,144,late,,,13.1,c.459C>G,p.Ile153Met,missense,c.1262G>A ,p.Trp421Ter,stop,comp,,,,,"Sibani et al., 2003 (2255)","Sibani et al., 2003 (2255)","Sibani et al., 2003 (2255)"
+FR.39,,late,,,14.8,c.459C>G,p.Ile153Met,missense,c.1530G>A,splice site;p.Lys510=,splice,comp,,,,,"Burda et al., 2015b (Patient 03)",Froese et al 2016,"Burda et al., 2015b (Patient 03)"
+FR.40,3.4,early,,,10.4,c.470G>A,p.Arg157Gln,missense,c.470G>A,p.Arg157Gln,missense,hom,,VV,,,"Burda et al., 2015b (Patient 32)","Huemer et al., 2015b (Patient 32)","Burda et al., 2015b (Patient 32)"
+FR.41,,late,,,31.6,c.[470G>A;1539dup],p.[Arg157Gln;Glu514Argfs],frameshift,c.1539dup,p.Glu514Argfs,frameshift,comp,,,,,"Michot et al., 2008","Sedel et al., 2007 (1st Case report);  Michot et al., 2008 ","Michot et al., 2008"
+FR.42.1,180,late,,,"4.5,5.6",c.470G>A,p.Arg157Gln,missense,c.1699C>T,p.Arg567Ter,stop,comp,,,,,"Goyette et al., 1994 (1779) / Sibani et al., 2000 (1779)","Haworth et al.,1993 (Patient 1)","Rosenblatt et al., 1992 (1779) / Goyette et al., 1994 (1779)"
+FR.42.2,444,asymp,,,"7.9,7.3",c.470G>A,p.Arg157Gln,missense,c.1699C>T,p.Arg567Ter,stop,comp,,,,,"Goyette et al., 1994 (1834) / Sibani et al., 2000 (1834)","Haworth et al., 1993 (Patient 2)","Rosenblatt et al., 1992 (1834) / Goyette et al., 1994 (1834)"
+FR.43,252,late,,,14.2,c.470G>A,p.Arg157Gln,missense,c.1715C>T,p.Pro572Leu,missense,comp,,,,,"Goyette et al., 1994 (1863) / Sibani et al., 2000 (1863)","Goyette et al., 1994 (1863)","Rosenblatt et al., 1992 (1863) /Goyette et al., 1994 (1863)"
+FR.44,,early,,,0,c.474A>T,splice site;p.Lys510=,splice,c.474A>T,splice site;p.Lys510=,splice,hom,,,,,"Ben-Shachar et al., 2012 (Family 1)","Ben-Shachar et al., 2012 (Family 1)","Ben-Shachar et al., 2012 (Family 1)"
+FR.45,,early,,, ,c.474A>T,splice site;p.Lys510=,splice,c.474A>T,splice site;p.Lys510=,splice,hom,,,,,"Ben-Shachar et al., 2012 (Family 2)","Ben-Shachar et al., 2012 (Family 2)", 
+FR.46.1,0.25,early,,,1.4,c.523G>A,p.Ala175Thr,missense,c.1166G>A,p.Trp389Ter,stop,comp,,,,,"Forges et al., 2010 (Case 1)","Forges et al., 2010 (Case 1)","Forges et al., 2010 (Case 1)"
+FR.46.2,0.2,early,,,1.7,c.523G>A,p.Ala175Thr,missense,c.1166G>A,p.Trp389Ter,stop,comp,,AV,,,"Forges et al., 2010 (Case 2)","Schiff et al., 2011 (Patient 4)","Schiff et al., 2011 (Patient 4);Burda et al., 2015b (Patient 55)"
+FR.47,3,early,,,15,c.541C>G,p.His181Asp,missense,c.1129C>T,p.Arg377Cys,missense,comp,,,,,"Tonetti et al., 2003 (Family 8, 1992)","Tonetti et al., 2003 (Family 8, 1992)","Tonetti et al., 2003 (Family 8, 1992)"
+FR.48,1,early,,,,c.547C>T,p.Arg183Ter,stop,c.547C>T,p.Arg183Ter,stop,hom,,,,,"Goyette et al., 1994 (1554)","Goyette et al., 1994 (1554)","Rosenblatt et al., 1992 (1554);  Goyette et al., 1994 (1554)"
+FR.49,1,early,,,0.8,c.547C>T,p.Arg183Ter,stop,c.547C>T,p.Arg183Ter,stop,hom,,,,,"Goyette et al., 1994 (1627)","Goyette et al., 1994 (1627)","Goyette et al., 1994 (1627)"
+FR.50,0.1,early,,,0.5,c.547C>T,p.Arg183Ter,stop,c.547C>T,p.Arg183Ter,stop,hom,,AA,,,"Burda et al., 2015b (Patient 42)","Huemer et al., 2015b (Patient 42)","Burda et al., 2015b (Patient 42)"
+FR.51.1,18,early,,, ,c.547C>T,p.Arg183Ter,stop,c.1013T>C,p.Met338Thr,missense,comp,,,,,"Cappuccio et al., 2014 (Patient 1)","Cappuccio et al., 2014 (Patient 1)", 
+FR.51.2,10,early,,, ,c.547C>T,p.Arg183Ter,stop,c.1013T>C,p.Met338Thr,missense,comp,,,,,"Cappuccio et al., 2014 (Patient 3)","Cappuccio et al., 2014 (Patient 3)", 
+FR.52,,early,,,0.5,c.547C>T,p.Arg183Ter,stop,c.1167-2del,splice site deletion,splice,comp,,AA,,,"Burda et al., 2015b (Patient 64)",Froese et al 2016,"Burda et al., 2015b (Patient 64)"
+FR.53.1,,late,,,21.8,c.548G>A,p.Arg183Gln,missense,c.548G>A,p.Arg183Gln,missense,hom,,AA,,,"Burda et al., 2015b (Patient 68)",Froese et al 2016,"Burda et al., 2015b (Patient 68)"
+FR.53.2,,late,,,20.6,c.548G>A,p.Arg183Gln,missense,c.548G>A,p.Arg183Gln,missense,hom,,AA,,,"Burda et al., 2015b (Patient 53)",Froese et al 2016,"Burda et al., 2015b (Patient 53)"
+FR.54,6,early,,,,c.578G>A,p.Cys193Tyr,missense,c.1129C>T,p.Arg377Cys,missense,comp,,,,,"Tonetti et al., 2003 (Family 9, 1982)","Marquet et al., 1994 (Case)","Marquet et al., 1994 (Case)"
+FR.55,216,late,,,"11,17.0",c.584C>T,p.Ala195Val,missense,c.584C>T,p.Ala195Val,missense,hom,,AA,,,"Bathgate et al., 2012 (Patient)","Bathgate et al., 2012 (Patient); Huemer et al., 2015b (Patient 33)","Bathgate et al., 2012 (Patient) / Burda et al., 2015b (Patient 33)"
+FR.56,,late,,,11.3,c.587G>A,p.Gly196Asp,missense,c.1160G>A,p.Gly387Asp,missense,hom,,AA,,,"Burda et al., 2015b (Patient 58)",Froese et al 2016,"Burda et al., 2015b (Patient 58)"
+FR.57,132,late,,, ,c.604C>A,p.Pro202Thr,missense,c.604C>A ,p.Pro202Thr,missense,hom,,,,,"Schiff et al., 2011 (Patient 3)","Schiff et al., 2011 (Patient 3)", 
+FR.58,48,late,,,7,c.652G>T,p.Val218Leu,missense,c.652G>T,p.Val218Leu,missense,hom,,,,,"Urreitzti et al., 2010 (Patient 1)","Urreitzti et al., 2010 (Patient 1)","Urreitzti et al., 2010 (Patient 1)"
+FR.59,0.25,early,,, ,c.662del,p.Gly221Glufs,frameshift,c.662del,p.Gly221Glufs,frameshift,hom,,,,,"Wong et al., 2015 (Patient 3)","Wong et al., 2015 (Patient 3)", 
+FR.60,,late,,,"4.2,4.2",c.673A>C,p.Ile225Leu,missense,c.673A>C,p.Ile225Leu,missense,hom,,VV,,,"Tamura et al., 2014 (Case)","Tamura et al., 2014 (Case)","Tamura et al., 2014 (Case)/ Burda et al., 2015b (Patient 77)"
+FR.61,,late,,,1.7,c.677_679del,p.Ile226del,deletion,c.1753-18G>A,intronic,intronic,het/comp,,,,,"Burda et al., 2015b (Patient 15)","Clayton et al., 1986 (Case); Hyland et al., 1988 (Case1) ","Clayton et al., 1986 (Case)/Burda et al., 2015b (Patient 15)"
+FR.62,5,early,,,"2.1,2.2,0.5",c.680C>T,p.Thr227Met,missense,c.680C>T,p.Thr227Met,missense,hom,,,,,"Goyette et al., 1995 (735)","Harpey et al., 1981, 1983 (Case)","Harpey et al., 1981(Case) / Boss and Erbe, 1981 (SM)/ Rosenblatt et al., 1992 (735)"
+FR.63,24,late,,,"3.5,3.2",c.752C>T,p.Pro251Leu,missense,c.752C>T,p.Pro251Leu,missense,hom,,,,,"Goyette et al., 1995 (1807)","Kishi et al., 1994; Sakura et al., 1998 (Case)","Rosenblatt et al., 1992 (1807)/ Kishi et al., 1994 (Case)"
+FR.64.1,,late,,,2.7,,,,,,,,,,,, ,Froese et al 2016,Froese et al 2016
+FR.64.2,,late,,,2,c.760C>T,p.Pro254Ser,missense,c.760C>T,p.Pro254Ser,missense,hom,,AA,,,"Burda et al., 2015b (Patient 62)",Froese et al 2016,"Burda et al., 2015b (Patient 62)"
+FR.65,,early,,,0.7,c.764G>T,p.Gly255Val,missense,c.1167-2del,splice site,splice,comp,,AA,,,"Burda et al., 2015b (Patient 74)",Froese et al 2016,"Burda et al., 2015b (Patient 74)"
+FR.66,0.5,early,,,0.8,c.767T>A,p.Ile256Asn,missense,c.1013T>C,p.Met338Thr,,comp,,AV,,,"Burda et al., 2015b (Patient 44)","Huemer et al., 2015b (Patient 44)","Burda et al., 2015b (Patient 44)"
+FR.67,,early,,, ,c.780+1G>A,splice site,splice,c.780+1G>A,splice site,splice,hom,,,,,"Schiff et al., 2011 (Patient 1)","Schiff et al., 2011 (Patient 1)", 
+FR.68.1,,late,,,"15.3,13.3,5.3",c.780+1G>A,splice site,splice,,,,?,,,,,"Goyette et al., 1995 (354)"," Freeman et al., 1975 (Case 2)","Mudd et al., 1972 (LM)/  Boss and Erbe, 1981 (LM)/ Rosenblatt et al., 1992 (354)"
+FR.68.2,,late,,,"14.3,12.2,3.5",c.780+1G>A,splice site,splice,,,,?,,,,,"Goyette et al., 1995 (355)"," Freeman et al., 1975 (Case 1)","Mudd et al., 1972 (BM)/  Boss and Erbe, 1981 (BM)/ Rosenblatt et al., 1992 (355)"
+FR.69,,early,,,1.1,c.781-2A>G,splice site,splice,c.781-2A>G,splice site,splice,hom,,,,,"Tonetti et al., 2003 (Family 2, 1992)","Tonetti et al., 2003 (Family 2, 1992)","Tonetti et al., 2003 (Family 2, 1992)"
+FR.70,,early,,,2.3,c.968T>C,p.Leu323Pro,missense,c.1129C>T,p.Arg377Cys,missense,comp,,,,,"Goyette et al., 1996 (1767)","Goyette et al., 1996 (1767)","Rosenblatt et al., 1992 (1767)"
+FR.71,,early,,, ,c.968T>C,p.Leu323Pro,missense,c.1541_1542del,p.Glu514Valfs,frameshift,comp,,,,,"Sahai et al., 2014","Sahai et al., 2014", 
+FR.72,24,late,,,2.2,c.971A>G,p.Asn324Ser,missense,c.971A>G,p.Asn324Ser,missense,hom,,,,,"Kluijtmans et al., 1998 (CM)","Wendel et al., 1983 (Patient 2); Wendel and Bremen, 1984 (CM); Hyland et al., 1988 (Case 2)","Wendel et al.,1983 (CM)"
+FR.73,192,late,,,"27.6,17.8",c.973C>T,p.Arg325Cys,missense,,,,?,,,,,"Goyette et al., 1995 (356)","Mudd et al., 1972 (CP)","Mudd et al., 1972 (CP)/ Boss and Erbe, 1981 (CP)"
+FR.74,1,early,,,,c.998T>C,p.Leu333Pro,missense,c.998T>C,p.Leu333Pro,missense,,,,,,"Homberger et al., 2001 (Patient 2); Thomas and Rosenblatt, 2005 (2)","Homberger et al., 2001 (Patient 2)",Froese et al 2016
+FR.75,,late,,,5.3,c.1004G>A,p.Arg335His,missense,c.1167-2del,splice site,splice,comp,,,,,"Burda et al,. 2015b (Patient 73)",Froese et al 2016,"Burda et al,. 2015b (Patient 73)"
+FR.76,12,early,,,5.5,c.1013T>C,p.Met338Thr,missense,c.1129C>T,p.Arg377Cys,missense,comp,,,,,"Sibani et al., 2003 (2351)","Sibani et al., 2003 (2351)","Sibani et al., 2003 (2351)"
+FR.77,12,early,,,5.3,c.1013T>C,p.Met338Thr,missense,c.1715C>T,p.Pro572Leu,missense,comp,,,,,"Sibani et al., 2003 (1951)","Goyette et al., 1996, 1998 (1951)","Sibani et al., 2003 (1951)"
+FR.78,1.5,early,,,0.2,c.1015T>G,p.Trp339Gly,missense,c.1015T>G,p.Trp339Gly,missense,hom,,,,,"Sibani et al., 2003 (2231)","Sibani et al., 2003 (2231)","Sibani et al., 2003 (2231)"
+FR.79.1,, ,,,0.5,c.1015T>G,p.Trp339Gly,missense,c.1015T>G,p.Trp339Gly,missense,hom,,VV,,,"Burda et al., 2015b (Patient 23)", ,"Burda et al., 2015b (Patient 23)"
+FR.79.2,, ,,,0.3, ,,,,,,,,,,, , ,Froese et al 2016
+FR.79.3,0.2,early,,,"2.3,14.3",c.1015T>G,p.Trp339Gly,missense, c.1015T>G,p.Trp339Gly,missense,hom,,,,,"Kluijtmans et al., 1998 (UB/HB) ","Kluijtmans et al., 1998 (UB/HB); Bönig et al., 2003 ","Kluijtmans et al., 1998 (UB/HB) "
+FR.80,0.2,early,,,"1.9,4.1,0.6",c.1015T>G,p.Trp339Gly,missense,c.1015T>G,p.Trp339Gly,missense,hom,,VV,,,"Burda et al., 2015b  (Patient 19)","Abeling et al., 1999 (BK)","Abeling et al., 1999 (BK)/ Burda et al., 2015b (Patient 19)"
+FR.81,0.5,early,,,0.5,c.1015T>G,p.Trp339Gly,missense,c.1015T>G,p.Trp339Gly,missense,hom,,VV,,,"Burda et al., 2015b  (Patient 40) ","Huemer et al., 2015b (Patient 40) ","Burda et al., 2015b (Patient 40) "
+FR.82,6,early,,,0.2,c.1015T>G,p.Trp339Gly,missense,c.1015T>G,p.Trp339Gly,missense,hom,,VV,,,"Burda et al., 2015b (Patient 48)  ","Huemer et al., 2015b (Patient 48) ","Burda et al., 2015b (Patient 48) "
+FR.83,,late,,,22,c.1033C>T,p.Arg345Cys,missense,c.1541_1542del,p.Glu514Valfs,frameshift,comp,,,,,"Froese et al 2016, Rummel et al., 2007 (Patient 2)","Rummel et al., 2007 (Patient 2)","Rummel et al., 2007 (Patient 2)"
+FR.84,,early,,,19.5,c.1042C>T,p.Pro348Ser,missense,c.1606G>T,p.Val536Phe,missense,comp,,AV,,,"Burda et al., 2015b (Patient 76) ",Froese et al 2016,"Burda et al., 2015b (Patient 76) "
+FR.85,,late,,,42.2,c.1060C>T,p.His354Tyr,missense,c.1060C>T,p.His354Tyr,missense,hom,,AA,,,"Burda et al., 2015b (Patient 57) ",Froese et al 2016,"Burda et al., 2015b(Patient 57) "
+FR.86.1,22,late,,,"27,26.9",c.1069C>T,p.Arg357Cys,missense,c.1069C>T,p.Arg357Cys,missense,hom,,,,,"Tonetti et al., 2000 (Je)","Tonetti et al., 2000 (Je)","Tonetti et al., 2000 (Je)/ Tonetti et al., 2003 (Family 3, 1983)"
+FR.86.2,22,late,,,"5,4.6",c.1069C>T,p.Arg357Cys,missense,c.1069C>T,p.Arg357Cys,missense,hom,,,,,"Tonetti et al., 2000 (Do)","Tonetti et al., 2000 (Do)","Tonetti et al., 2000 (Do)/ Tonetti et al., 2003 (Family 3, 1985-1)"
+FR.86.3,24,late,,,"35,34.6",c.1069C>T,p.Arg357Cys,missense,c.1069C>T,p.Arg357Cys,missense,hom,,,,,"Tonetti et al., 2000 (Ju)","Tonetti et al., 2000 (Ju)","Tonetti et al., 2000 (Ju)/  Tonetti et al., 2003 (Family 3, 1985-2)"
+FR.86.4,2,early,,,9.2,c.1069C>T,p.Arg357Cys,missense,c.1069C>T,p.Arg357Cys,missense,hom,,,,,"Tonetti et al., 2000 (De)","Tonetti et al., 2000 (De)","Tonetti et al., 2003 (Family 3, 1995)"
+FR.87,240,late,,, ,c.1070G>A,p.Arg357His,missense,c.1169G>A,p.Gly390Asp,missense,comp,,,,,"Kim et al., 2013","Kim et al., 2013", 
+FR.88,336,late,,,"20.9,46.2",c.1070G>A,p.Arg357His,missense,c.1604G>A,p.Arg535Gln,missense,comp,,,,,"Birnbaum et al., 2008","Birnbaum et al., 2008","Birnbaum et al., 2008"
+FR.89,0.3,early,,,,c.1072C>T,p.Arg358Ter,stop,c.1072C>T,p.Arg358Ter,stop,hom,,,,,"Kluijtmans et al., 1998 (K)","Hyland et al., 1988 (Case 3); Baethmnann et al., 2000 (MK)","Hyland et al., 1988 (Case 3)"
+FR.90,,early,,,19.2,c.1088G>A,p.Arg363His,missense,c.1088G>A,p.Arg363His,missense,hom,,VV,,,"Burda et al., 2015b (Patient 28)",Froese et al 2016,"Burda et al., 2015b (Patient 28)"
+FR.91,0.1,early,,,6.3,c.1114A>G,p.Lys372Glu,missense,c.1530+2T>C,splice site,splice,comp,,,,,"Burda et al., 2015b (Patient 52)","Huemer et al., 2015b (Patient 52)","Burda et al., 2015b (Patient 52)"
+FR.92,, ,,, ,c.1129C>T,p.Arg377Cys,missense,c.1129C>T,p.Arg377Cys,missense,hom,,,,,"Strauss et al., 2007 (18 years old)", , 
+FR.93,, ,,, ,c.1129C>T,p.Arg377Cys,missense,c.1129C>T,p.Arg377Cys,missense,hom,,,,,"Strauss et al., 2007 (4 years old)", , 
+FR.94,, ,,, ,c.1129C>T,p.Arg377Cys,missense,c.1129C>T,p.Arg377Cys,missense,hom,,,,,"Strauss et al., 2007 (13 months old)", , 
+FR.95,7,early,,, ,c.1129C>T,p.Arg377Cys,missense,c.1129C>T,p.Arg377Cys,missense,hom,,,,,"Strauss et al., 2007 (7 months old)","Strauss et al., 2007 (7 months old)", 
+FR.96,,asymp,,, ,c.1129C>T,p.Arg377Cys,missense,c.1129C>T,p.Arg377Cys,missense,hom,,,,,"Strauss et al., 2007 (newborn)","Strauss et al., 2007 (newborn)", 
+FR.97,0.75,early,,,7.4,c.1129C>T,p.Arg377Cys,missense,c.1347+1G>A,splice site,splice,comp,,,,,"Burda et al., 2015b (Patient 54)  ","Huemer et al., 2015b (Patient 54) ","Burda et al., 2015b (Patient 54) "
+FR.98,60,late,,,34.8,c.1130G>A,p.Arg377His,missense,c.1130G>A,p.Arg377His,missense,hom,,AA,,,"Burda et al., 2015b (Patient 31) ","Huemer et al., 2015b (Patient 31)","Burda et al., 2015b (Patient 31)  "
+FR.99.1,348,late,,,"36.8,50.5,30.2",c.1130G>A,p.Arg377His,missense,c.1130G>A,p.Arg377His,missense,,,AA,,,"Lossos et al., 2014 (Patient 3)","Lossos et al., 2014 (Patient 3)","Lossos et al., 2014 (Patient 3)/ Burda et al., 2015b (Patient 47)"
+FR.99.2,480,late,,,"31.2,41.9",c.1130G>A,p.Arg377His,missense,c.1130G>A,p.Arg377His,missense,hom,,,,,"Lossos et al., 2014 (Patient 4) ","Lossos et al., 2014 (Patient 4) ","Lossos et al, .2014 (Patient 4) "
+FR.100.1,444,late,,,"50.0,52.8",c.1129C>T,p.Arg377Cys,missense,c.1535A>G,p.Tyr512Cys,missense,hom,,,,,"Lossos et al., 2014 (Patient 1) ","Lossos et al., 2014 (Patient 1) ","Lossos et al., 2014 (Patient 1) "
+FR.100.2,600,late,,,"18.1,19.6",c.1129C>T,p.Arg377Cys,missense,c.1535A>G,p.Tyr512Cys,missense,hom,,,,,"Lossos et al., 2014 (Patient 2)","Lossos et al., 2014 (Patient 2)","Lossos et al., 2014 (Patient 2) "
+FR.101,120,late,,,"7,8.2",c.1160G>A,p.Gly387Asp,missense,c.1756G>A,p.Glu586Lys,missense,comp,,,,,"Sibani et al., 2000 (2006)","Sibani et al., 2000 (2006)","Goyette et al., 1996 (2006) / Sibani et al., 2000 (2006)"
+FR.102,,early,,, ,c.1166+1G>A,splice site,splice,c.1699C>T,p.Arg567Ter,stop,comp,,,,,"Tonetti et al., 2003 (Family 10, 1994)g","Tonetti et al., 2003 (Family 10, 1994)", 
+FR.103,,early,,,0.5,c.1167-2del,splice site,splice,c.1167-2del,splice site,splice,hom,,AA,,,"Burda et al., 2015b(Patient 21)  ",Froese et al 2016,"Burda et al., 2015b (Patient 21) "
+FR.104,60,late,,,3.8,c.1262G>C,p.Trp421Ser,missense,c.1408G>T,p.Glu470Ter,stop,comp,,AV,,,"Homberger et al., 2001 (Patient 1); Burda et al., 2015b (Patient 10)","Homberger et al., 2001 (Patient 1); Huemer et al., 2015b (Patient 10)","Burda et al., 2015b (Patient 10)"
+FR.105,36,late,,, ,c.1304T>C,p.Phe435Ser,missense,c.1304T>C,p.Phe435Ser,missense,hom,,,,,"Urreitzti et al., 2010 (Patient 3)","Urreitzti et al., 2010 (Patient 3)", 
+FR.106,,early,,,4,c.1304T>C,p.Phe435Ser,missense,c.1539dup,p.Glu514Argfs,frameshift,comp,,,,,"Munoz et al., 2015","Munoz et al., 2015","Munoz et al., 2015"
+FR.107,4,early,,,2.2,c.1320G>A,p.Ser440=,syn,c.1632+2T>G,splice site,splice,het/comp,,,,,"Burda et al., 2015b (Patient 72) ","Huemer et al., 2015b (Patient 72)","Burda et al., 2015b (Patient 72) "
+FR.108,,early,,,1.1,c.1320G>A,p.Ser440=,syn,c.1683G>A,p.Trp561Ter,stop,het/comp,,,,,"Burda et al., 2015b (Patient 72) ",Froese et al 2016,"Burda et al., 2015b (Patient 65)  "
+FR.109,2,early,,,0.6,c.1408G>T,p.Glu470Ter,stop,c.1408G>T,p.Glu470Ter,stop,hom,,AA,,,"Urreitzti et al., 2010 (Patient 2)","Urreitzti et al., 2010 (Patient 2)","Burda et al., 2015b (Patient 16) "
+FR.110,,early,,,0.6,c.1408G>T,p.Glu470Ter,stop,c.1408G>T,p.Glu470Ter,stop,hom,,AA,,,"Burda et al., 2015b (Patient 25)  ",Froese et al 2016,"Burda et al., 2015b (Patient 25)  "
+FR.111,1,early,,,0.5,c.1408G>T,p.Glu470Ter,stop,c.1408G>T,p.Glu470Ter,stop,hom,,AA,,,"Burda et al., 2015b (Patient 18)   ","Huemer et al., 2015b (Patient 18)  ","Burda et al., 2015b (Patient 18)  "
+FR.112,, ,,, ,c.1408G>T,p.Glu470Ter,stop,c.1408G>T,p.Glu470Ter,stop,hom,,,,,"Burda et al., 2015b (Patient 84)  ", , 
+FR.113,,early,,,,c.1408G>T,p.Glu470Ter,stop,c.1541_1542del,p.Glu514Valfs,frameshift,comp,,,,,"Sibani et al., 2003 (1569)","Sibani et al., 2003 (1569)","Sibani et al., 2003 (1569)"
+FR.114,,early,,, ,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Richard et al., 2013 (MTHFR case) ","Richard et al., 2013 (MTHFR case)  ", 
+FR.115,2.5,early,,,0.6,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 22)  ","Huemer et al., 2015b (Patient 22)  ","Burda et al., 2015b (Patient 22)  "
+FR.116,1,early,,,0.3,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 51)  ","Huemer et al., 2015b (Patient 51)  ","Burda et al., 2015b (Patient 51)  "
+FR.117,, ,,,0.6,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 17) ", ,"Burda et al., 2015b (Patient 17)  "
+FR.118,,early,,,0.6,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 50) ",Froese et al 2016,"Burda et al., 2015b (Patient 50) "
+FR.119,,early,,,0.6,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 67) ",Froese et al 2016,"Burda et al., 2015b (Patient 67) "
+FR.120,,early,,,0.7,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 69)","Broomfield et al., 2014 (Patient 2)","Burda et al., 2015b (Patient 69) "
+FR.121,,early,,,0.8,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 70)",Froese et al 2016,"Burda et al., 2015b (Patient 70)"
+FR.122,, ,,, ,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 83)", , 
+FR.123,, ,,, ,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 85)", , 
+FR.124,, ,,, ,c.1530G>A,splice site;p.Lys510=,splice,c.1530G>A,splice site;p.Lys510=,splice,hom,,,,,"Burda et al., 2015b (Patient 86)", , 
+FR.126,,early,,, ,c.1593del,p.Lys531Asnfs,frameshift,c.1593del,p.Lys531Asnfs,frameshift,hom,,,,,"Schiff et al., 2011 (Patient 5)","Schiff et al., 2011 (Patient 5)", 
+FR.127,15,early,,, ,c.1603C>T,p.Arg535Trp,missense,c.1603C>T,p.Arg535Trp,missense,hom,,,,,"Schiff et al., 2011 (Patient 2)","Schiff et al., 2011 (Patient 2)", 
+FR.128,2.5,early,,,1.8,c.1632+2T>G,splice site,splice,c.1632+2T>G,splice site,splice,hom,,,,,"Burda et al., 2015b (Patient 37)","Huemer et al., 2015b (Patient 37)","Burda et al., 2015b (Patient 37)"
+FR.129.1,,late,,,10,c.1699C>T,p.Arg567Ter,stop,,,,?,,,,,"Tonetti et al., 2003 (Family 11, 1981)","Tonetti et al., 2003 (Family 11, 1981)","Tonetti et al., 2003 (Family 11, 1981)"
+FR.129.2,,late,,,7.6,c.1699C>T,p.Arg567Ter,stop,,,,?,,,,,"Tonetti et al., 2003 (Family 11, 1983)","Tonetti et al., 2003 (Family 11, 1983)","Tonetti et al., 2003 (Family 11, 1983)"
+FR.130,3,early,,,"19.8,48.9,10",c.1699C>T,p.Arg567Ter,stop,c.1699C>T,p.Arg567Ter,stop,hom,,,,,"Kluijtmans et al., 1998 (U)","Engelbrecht et al., 1997","Kluijtmans et al., 1998 (U) / Engelbrecht et al., 1997"
+FR.131,4,early,,,10.3,c.1721T>G,p.Val574Gly,missense,c.1721T>G,p.Val574Gly,missense,hom,,VV,,,"Urreitzti et al., 2010 (Patient 5)","Urreitzti et al., 2010 (Patient 5)","Burda et al., 2015b (Patient 56)"
+FR.132,,late,,,6.5,c.1724T>G,p.Val575Gly,missense,c.1724T>G,p.Val575Gly,missense,hom,,AA,,,"Burda et al., 2015b (Patient 75)",Froese et al 2016,"Burda et al., 2015b (Patient 75)"
+FR.133,1,early,,,,c.1750A>T,p.Lys584Ter,stop,c.1750A>T,p.Lys584Ter,stop,hom,,,,,"Sibani et al., 2000 (1794)","Sibani et al., 2000 (1794)","Sibani et al., 2000 (1794)"
+FR.134,1.25,early,,,3.7,c.1752+1G>T,splice site,splice,c.1752+1G>T,splice site,splice,hom,,,,,"Burda et al., 2015b (Patient 12)","Huemer et al., 2015b (Patient 12)","Burda et al., 2015b (Patient 12)"
+FR.135,,early,,,3,c.1752+1G>T,splice site,splice,c.1752+1G>T,splice site,splice,hom,,,,,"Burda et al., 2015b (Patient 14)",Froese et al 2016,"Burda et al., 2015b (Patient 14)"
+FR.136,24,late,,,3.5,c.1753-18G>A,intronic,intronic,c.1753-18G>A,intronic,intronic,hom,,,,,"Burda et al., 2015b (Patient 26)","Huemer et al., 2015b (Patient 26)","Burda et al., 2015b (Patient 26)"
+FR.137,,late,,,3.7,c.1753-18G>A,intronic,intronic,c.1753-18G>A,intronic,intronic,hom,,,,,"Burda et al., 2015b (Patient 79)",Froese et al 2016,"Burda et al., 2015b (Patient 79)"
+FR.138,1.25,early,,,2.5,c.1753-18G>A,intronic,intronic,c.1753-18G>A,intronic,intronic,hom,,,,,"Burda et al., 2015b (Patient 13)","Huemer et al., 2015b (Patient 13)","Burda et al., 2015b (Patient 13)"
+FR.139,,early,,,2,c.1768del,p.Leu590Cysfs,frameshift,c.1768del,p.Leu590Cysfs,frameshift,hom,,,,,"Urreitzti et al., 2010 (Patient 4)","Urreitzti et al., 2010 (Patient 4)","Burda et al., 2015b (Patient 49)"
+FR.140,1,early,,,3.1,c.1793T>C,p.Leu598Pro,missense,c.1793T>C,p.Leu598Pro,missense,hom,,AA,,,"Burda et al., 2015b (Patient 38)","Huemer et al., 2015b (Patient 38)","Burda et al., 2015b (Patient 38)"
+FR.141,,late,,,5.9,c.[1797_1798delinsGT;1808C>G],p.[Tyr599Ter;Ser603Cys],stop,c.1883T>C,p.Leu628Pro,missense,comp ,,,,,"Burda et al., 2015b (Patient 07)","Suormala et al., 2002 (Patient 07)","Burda et al., 2015b (Patient 07)"
+FR.142,,early,,,0.9,c.1969T>C,p.Ter657Arg,stoploss,c.1969T>C,p.Ter657Arg,stoploss,hom,,,,,"Burda et al., 2015b (Patient 34)",Froese et al 2016,"Burda et al., 2015b (Patient 34)"
+FR.143.1,,early,,,1.5,c.1970G>C,p.Ter657Ser,stoploss,c.1702G>C,p.Glu568Gln,missense,comp,,,,,"Tonetti et al., 2003 (Family 4, 1995)","Tonetti et al., 2003 (Family 4, 1995)","Tonetti et al., 2003 (Family 4, 1995)"
+FR.143.2,,early,,,4.5,c.1982G>C,UTR,UTR,c.1982G>C,UTR,UTR,hom,,,,,"Tonetti et al., 2003 (Family 4, 1998)","Tonetti et al., 2003 (Family 4, 1998)","Tonetti et al., 2003 (Family 4, 1998)"
+VK.1,660,late,,,,c.1103C>A,p.Ala368Asp,missense,c.1167-1G>A,splice site,splice,het/comp,,AV,,,Viktor Kozich,,
+VK.2,,late?,,,,c.867_868insG,p.fs,frameshift,,,,het,,AV,,,Viktor Kozich,,
+VK.3,,late?,,,,c.?,p.R377C,missense,,,,het,,AV,,,Viktor Kozich,,
