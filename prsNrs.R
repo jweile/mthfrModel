@@ -147,6 +147,31 @@ rownames(insilico) <- sapply(1:nrow(insilico), function(i) with(insilico[i,],{
 	b$substitution(pos,ref,alt)
 }))
 
+#Load CADD predictions
+cadd <- read.csv("reference_data/cadd_mthfr.csv")
+rownames(cadd) <- cadd$hgvp
+insilico$cadd <- cadd[rownames(insilico),"cadd.mean"]
+
+#Load REVEL predictions
+revel <- read.csv("reference_data/revel_mthfr.csv")
+rownames(revel) <- revel$hgvsp
+insilico$revel <- revel[rownames(insilico),"revel.mean"]
+
+#Load Deogen2 predictions
+deogen2 <- read.csv("reference_data/deogen2_mthfr.csv")
+rownames(deogen2) <- deogen2$hgvsp
+insilico$deogen2 <- deogen2[rownames(insilico),"deogen"]
+
+#Load Varity predictions
+varity <- read.csv("reference_data/varity_mthfr.csv")
+rownames(varity) <- varity$hgvsp
+insilico$varity <- varity[rownames(insilico),"varity"]
+
+#Load Varity predictions
+snap2 <- read.csv("reference_data/snap2_mthfr.csv")
+rownames(snap2) <- snap2$hgvsp
+insilico$snap2 <- snap2[rownames(insilico),"snap2"]
+
 #################################################
 # Draw PRC curves for all different maps and models  
 ################################################
@@ -201,8 +226,12 @@ evaluatePRCs <- function(fitted,prs,nrs,title) {
 	yrExperim <- yr2(truth,cbind(smExperim,dmExperim),high=FALSE)
 	experimAUC <- auprc(yrExperim,balanced=TRUE)
 
-	isScores <- insilico[prsNrs,c("provean","pp2div")]
-	yrInsilico <- yr2(truth,as.matrix(isScores),high=c(FALSE,TRUE))
+	isScores <- insilico[prsNrs,
+		c("provean","pp2div","cadd","revel","deogen2","varity","snap2")
+	]
+	yrInsilico <- yr2(truth,as.matrix(isScores),
+		high=c(FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE)
+	)
 	insilicoAUC <- auprc(yrInsilico,balanced=TRUE)
 
 	yrJoint <- structure(
@@ -214,7 +243,7 @@ evaluatePRCs <- function(fitted,prs,nrs,title) {
 	op <- par(mar=c(5,4,1,1)+.1,oma=c(0,0,3,0))
 	#PRC curves
 	yrColors <- c("steelblue3","chartreuse3","steelblue4",
-				  "chartreuse4","gold","gray30","gray50")
+				  "chartreuse4","gold","gray30","gray40","gray50","gray60","gray70","gray80","gray90")
 	draw.prc(yrJoint,col=yrColors,lwd=2,balanced=TRUE)
 	# draw.prc.CI(yrJoint,col=yrColors,lwd=2)
 	abline(h=90,lty="dotted",col="gray80")
@@ -249,11 +278,11 @@ evaluatePRCs <- function(fitted,prs,nrs,title) {
 
 }
 
-pdf("vis/PRC_catalytic05.pdf",10,5)
+pdf("vis/PRC_catalytic06.pdf",10,5)
 evaluatePRCs(fitted,cataPRS,cataNRS,"Catalytic domain") 
 invisible(dev.off())
 
-pdf("vis/PRC_regulatory05.pdf",10,5)
+pdf("vis/PRC_regulatory06.pdf",10,5)
 evaluatePRCs(fitted,reguPRS,reguNRS,"Regulatory domain") 
 invisible(dev.off())
 
@@ -682,15 +711,36 @@ filteredAoo$prot2[which(filteredAoo$prot2=="")] <- "WT"
 
 
 #calculate the applicable scores for all in-cis scenarios (and models)
+# scoreVersions <- with(fitted,data.frame(
+# 	row.names=c(hgvs,"WT"),
+# 	ae=c(w25.score,1),
+# 	aa=c(w25.score,1)*fitted["p.Glu429Ala","w25.score"],
+# 	ve=c(m25.score,fitted["p.Ala222Val","w25.score"]),
+# 	ve.edm=c(w25.score,1)*fitted["p.Ala222Val","w25.score"],
+# 	va=c(
+# 		m25.score*fitted["p.Glu429Ala","m25.score"]/fitted["p.Ala222Val","w25.score"],
+# 		fitted["p.Glu429Ala","m25.score"]
+# 	)
+# ))
+
+getEDMScores <- function(vars,conc) {
+	vars <- intersect(vars,names(modelFuns))
+	setNames(sapply(modelFuns[vars],function(funs)funs$edm(conc)),vars)
+}
+getDMScores <- function(vars,conc) {
+	vars <- intersect(vars,names(modelFuns))
+	setNames(sapply(modelFuns[vars],function(funs)funs$dm(conc)),vars)
+}
+
 scoreVersions <- with(fitted,data.frame(
 	row.names=c(hgvs,"WT"),
-	ae=c(w25.score,1),
-	aa=c(w25.score,1)*fitted["p.Glu429Ala","w25.score"],
-	ve=c(m25.score,fitted["p.Ala222Val","w25.score"]),
-	ve.edm=c(w25.score,1)*fitted["p.Ala222Val","w25.score"],
+	ae=c(getModelScores(hgvs,120),1),
+	aa=c(getModelScores(hgvs,120),1)*getModelScores("p.Glu429Ala",120),
+	ve=c(getDMScores(hgvs,120),getModelScores("p.Ala222Val",120)),
+	ve.edm=c(getEDMScores(hgvs,120),getModelScores("p.Ala222Val",120)),
 	va=c(
-		m25.score*fitted["p.Glu429Ala","m25.score"]/fitted["p.Ala222Val","w25.score"],
-		fitted["p.Glu429Ala","m25.score"]
+		getDMScores(hgvs,120)*getDMScores("p.Glu429Ala",120)/getModelScores("p.Ala222Val",120),
+		getDMScores("p.Glu429Ala",120)
 	)
 ))
 
@@ -839,7 +889,7 @@ diploidModels$provFullSum <- with(diploidModels,splitFuns(fullProvean1,fullProve
 diploidModels$provFullMin <- with(diploidModels,splitFuns(fullProvean1,fullProvean2,min))
 
 
-write.csv(diploidModels,"results/diploidModels2.csv")
+write.csv(diploidModels,"results/diploidModels3.csv")
 
 m <- function(xs) {
 	if (is.character(xs)) {
